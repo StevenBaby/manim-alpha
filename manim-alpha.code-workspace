@@ -5,6 +5,6 @@
 		}
 	],
 	"settings": {
-		"explorer.sortOrder": "modified"
+		// "explorer.sortOrder": "modified"
 	}
 }
