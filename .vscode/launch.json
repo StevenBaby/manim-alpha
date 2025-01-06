@@ -8,8 +8,8 @@
             "name": "Python Debugger: Current Manim File",
             "type": "debugpy",
             "request": "launch",
-            "module": "manimlib",
-            "args": ["${file}"],
+            "module": "manim",
+            "args": ["${file}", "-pql"],
             "console": "integratedTerminal",
             "justMyCode": false,
         }
